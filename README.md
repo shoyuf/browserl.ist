@@ -1,4 +1,4 @@
-# Browserl.ist [![Build Status](https://github.com/browserslist/browserl.ist/workflows/Tests/badge.svg)](https://github.com/browserslist/browserl.ist/actions?workflow=Tests)
+# Browserl.ist [![Build Status](https://github.com/browserslist/browserl.ist/workflows/Tests/badge.svg)](https://github.com/browserslist/browserl.ist/actions?workflow=Tests) [![daily-cron](https://github.com/shoyuf/browserl.ist/actions/workflows/cron.yaml/badge.svg)](https://github.com/shoyuf/browserl.ist/actions/workflows/cron.yaml)
 
 > A website that shows what browsers supported by a browserslist string
 
