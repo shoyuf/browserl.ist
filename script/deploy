@@ -1,6 +1,5 @@
 #!/bin/bash
 set -e
-now rm -y browserlist
-now --public
-now alias browserl.ist
-now alias browsersl.ist
+vercel rm -y browserlist
+vercel --public
+vercel alias browserlist.shoyuf.top
